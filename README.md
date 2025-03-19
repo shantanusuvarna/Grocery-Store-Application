@@ -113,5 +113,5 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License.
 
 ## Author
-[Mrunal Patange](https://github.com/your-github-profile)
+Shantanu Suvarna
 
